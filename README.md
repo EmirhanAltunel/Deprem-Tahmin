@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-Flutter Dili ile UI tasarlanmıştır.
+Flutter Dili ile UI tasarlanmıştır. / UI is designed with Flutter.
 ###
-Python ile Facebook Prophet Kütüphanesi kullanılarak deprem tahmini yapılmıştır.
+Python ile Facebook Prophet Kütüphanesi kullanılarak deprem tahmini yapılmıştır. / Earthquake predictions were made using Python and Facebook Prophet Library. 
 
