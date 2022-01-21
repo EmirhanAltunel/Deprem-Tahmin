@@ -1,6 +1,5 @@
-# yz
+# Deprem Tahmin Uygulaması / Earthquake Prediction Application 
 
-A new Flutter project.
 
 ## Getting Started
 
